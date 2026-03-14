@@ -1,0 +1,4 @@
+Flask
+SQLAlchemy
+
+# Other necessary packages can be added here if needed
